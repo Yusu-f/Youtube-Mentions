@@ -1,0 +1,3 @@
+TRAIN,gs://fatiha-bucket/jsonl/data_2_train.jsonl
+VALIDATE,gs://fatiha-bucket/jsonl/data_2_validate.jsonl
+TEST,gs://fatiha-bucket/jsonl/data_2_test.jsonl

@@ -1,0 +1,11 @@
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript1.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript20.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript13.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript6.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript3.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript12.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript14.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript16.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript19.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript25.pdf"]}}}}
+

@@ -1,0 +1,50 @@
+#main-table {
+  flex-wrap: nowrap;
+  overflow-x: scroll !important;
+  overflow-y: hidden;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+#main-table ion-row {
+  background-color: aqua;
+  height: 3.5rem;
+  flex-wrap: nowrap;
+  width: auto;
+}
+
+#main-table::-webkit-scrollbar {
+  display: none;
+}
+
+
+ion-col {
+  height: 100%;
+}
+
+body {
+  --ion-background-color: black;
+}
+
+ion-label {
+  color: white
+}
+
+#ios-segment {
+  --background: var(--ion-color-primary)
+}
+
+#footer-grid {
+  margin-left: 0px
+}
+
+.coffee {
+  padding-top: 1rem;
+  padding-left: .5rem;
+}
+
+ion-title {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+

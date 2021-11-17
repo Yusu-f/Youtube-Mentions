@@ -1,0 +1,356 @@
+today's video we'll be talking about
+$beam therapeutics ticker symbol $b-e-a-m
+and comparing them to $crispr
+therapeutics ticker symbol $c-r-s-p
+they are both companies in the business
+of designing gene editing systems
+to correct underlying genetic disease
+we'll talk about their technology
+how it's similar and how it's different
+we'll talk about the ceo
+of beam we'll talk about their pipeline
+and
+much more on this channel we talk about
+companies in the genomic space
+healthcare sector biotech and much more
+we've been talking about $bio
+nanogenomics $bingo since they were
+trading around two dollars talking about
+$sensionics
+when they were one dollar a census when
+they were one dollar
+as well we've also talked about a number
+of other gene editing companies
+this is the place to be if you like to
+learn more about the science of these
+stocks
+before they potentially take off so
+please like
+subscribe and consider joining our
+patreon which we recently started
+[Music]
+$beam therapeutics a new class of
+precision genetic
+medicines beam is pioneering the use of
+base editing
+a potential new class of precision
+genetic medicines with a vision
+of providing lifelong cures to patients
+suffering from serious diseases
+the dna is the underlying blueprint that
+codes for the proteins which are the
+functional units of
+the body and they perform the tasks that
+are required
+to live and function however if you have
+an abnormal
+dna blueprint then you will create an
+abnormal protein
+and therefore have some type of genetic
+disease
+currently there are no cures for many
+genetic diseases
+because we haven't had a way to actually
+correct the underlying blueprint
+or the dna we've been waiting till the
+proteins are created
+they perform their abnormal function and
+then we try and target
+those proteins as best we can with
+various therapeutics
+in order to understand how a base editor
+works which is what $beam therapeutics
+has created
+compared to $crispr cast 9's system of
+gene editing you have to have a basic
+understanding of what dna
+is and the different parts associated
+with it
+dna is actually your blueprint and it is
+created
+out of four letters the first of which
+is a the second is c
+g and t as you can see here on the left
+the letter t will always pair with a and
+g will always pair with c
+and if you move from left to right you
+can see a sequence of different
+letters and those letters are
+instructions for the creation of a given
+protein
+number of diseases are caused by
+an abnormal letter within a sequence so
+if you substitute an
+a for a c it will change the word
+for example if you had the word the boy
+jumps if you remove
+one of the letters for example o in boy
+and you replace it with a y
+the sentence will not make much sense
+and so if you remove
+a t and you replace it with a c you're
+going to get an
+abnormally shapen protein in some
+instances
+this is where $beam therapeutics
+technology comes
+in they describe it as a pencil with an
+eraser for example if you're at this dna
+sequence
+where you have the letter t if this t is
+incorrect
+they can actually go in with their base
+editor
+remove just the t and correct it to
+a c for example and then they would be
+able to also correct the letter a
+and replace it with a g without
+disrupting the rest of the dna sequence
+now if we compare $beam therapeutics base
+editor system
+which is like a pencil and eraser where
+you can just erase the letter t
+and replace it with the correct letter
+you can't do that with the $crispr
+cast 9 system which $crispr therapeutics
+uses
+for their gene editing system they
+actually use what's known as a barcode
+and scissors method
+so rather than being able to snip out a
+single letter for example the letter
+a you actually have to cut out a segment
+of a number of nucleotides so you might
+have to cut out c
+a t a t g all in one
+cut that segment out using the scissors
+of the $crisper cast 9 system and then
+replace it with new
+dna the problem that occurs when you're
+using the $crisper cast 9
+barcode scissor system is that when you
+cut out
+larger segments of these nucleotides or
+letters
+when the dna goes back to repair itself
+it has the potential to introduce errors
+or add
+incorrect letters to the mix and that
+can disrupt the whole sequence
+and that may not be a problem if you're
+trying to knock out an abnormal
+gene then that wouldn't be a problem but
+if you're just trying to correct a
+single letter it would be more efficient
+and appropriate to potentially use the
+beam system
+to correct that single nucleotide
+because it avoids the risk
+of introducing insertions or deletions
+that are
+incorrect to get a better understanding
+of what i mean let's actually take a
+look at how the $crispr cast 9 system
+uses their barcode scissor system to cut
+at the dna
+the $crispr cas9 gene editing process
+begins when the complex recognizes and
+binds to a short segment of dna
+adjacent to the target site this
+initiates
+unwinding of the dna helix which allows
+the guide rna to pair with a specific
+target sequence in the dna
+so the $crispr cast 9 system which $crispr
+therapeutics uses is described in this
+video
+the cast 9 is the scissors that cuts at
+this double stranded
+helix or the double-stranded dna and
+it's directed to
+a given location within the dna which is
+defective
+by using the $crispr system
+if the sequences pair precisely cas9
+cuts the dna
+forming a double strand break our cells
+respond to such breaks by activating
+natural dna repair pathways
+those double-stranded breaks can
+introduce errors into that genetic
+sequence in some cases a process called
+non-homologous end joining
+results in the additional deletion of a
+few base pairs
+which disrupts the original dna sequence
+and can cause gene inactivation
+a larger fragment of dna can also be
+removed by using
+two different guide rnas to target
+separate sites on either side of the
+desired deletion
+cleavage occurs at each site and the
+repair process joins the separate
+ends thereby deleting the intervening
+sequence
+[Applause]
+correction so as you can see in order to
+remove
+or delete certain areas of the genome
+you actually have to cut out larger
+segments and be a little bit more
+creative using the $crispr cast 9 system
+compare that with beams base editing
+system you can actually
+cut out a single nucleotide at a time
+and so it's more efficient and less
+error prone
+to dna can also be made by adding a dna
+template
+along with a cas9 guide rna complex
+the template is designed with sequences
+that exactly match the dna adjacent to
+the target cut
+site through a process called homology
+directed repair
+the cell uses the template to repair the
+break thereby replacing the faulty dna
+sequence
+or even inserting a new gene
+that's how $crispr cast 9 system uses
+their technology to replace defective
+dna they have to bring in a homologous
+sequence of dna to actually fit into the
+area that's been
+cut out using their barcode scissor
+system as they describe it
+let's take a look at the advantages to
+base editing compared to $crispr cast 9
+which we just
+looked at first of which the creation of
+precise
+predictable and efficient genetic
+outcomes at a targeted sequence
+number two high efficiency editing
+without need for template based homology
+directed repair
+they don't have to bring in an extra
+sequence of
+dna to correctly edit a segment that's
+been cut
+is what they're describing here and
+three avoidance of the unwanted
+consequence of double stranded dna
+breaks so anytime you cut dna
+as we saw in that $crispr cast 9 video
+there is the possibility
+of inserting incorrect fragments of dna
+such as frequent insertions and
+deletions or larger scale genomic
+rearrangements should mention
+that after listening to the ceo dr cole
+carney
+from $crispr therapeutics they have
+stated that their technology is very
+safe
+and they haven't had any issues with off
+target
+cuts before we move on we should talk
+about dr david liu phd who
+is the founder of this technology as
+well as the company $beam therapeutics
+and editos he is a richard merkin
+professor and vice chair of faculty at
+the broad institute of harvard and mit
+professor of chemistry and chemical
+biology at harvard university
+and howard hughes medical institute
+investigator
+he has published more than 150 papers
+and is an inventor of more than 50
+issued patents i took a look a lot of
+his publications
+are in nature which is one of the most
+prestigious journals
+in all of scientific literature his work
+on base editing has spurred numerous
+publications within the healthcare
+field publications have already come out
+describing the base editing system
+to be effective in treating diseases in
+animal models for dr
+lou is actually quite prolific within
+the field of gene editing
+and some have said that base editing is
+an evolution
+from $crispr cast 9 and may be a better
+more efficient system as we have
+described taking a look at their
+pipeline they are working towards
+curative
+disease pathways for sickle cell anemia
+beta thalassemia
+as well as looking in immuno-oncology
+disease such as t cell acute
+lymphoblastic leukemia
+they're also trying to treat rare
+diseases alpha-1 anti-trypsin deficiency
+glycogen storage disorder 1a and are
+also looking
+into the treatment of ocular disease
+ocular disease has been the focus of the
+company editos
+and hematologic conditions have been the
+focus of $crispr therapeutics
+as well as intelia $beam therapeutics is
+much earlier
+in their clinical work than $crispr
+therapeutics $crispr therapeutics
+has already conducted phase 1 phase ii
+clinical work
+in the treatment of sickle cell anemias
+actually published their work
+in new england journal of medicine
+whereas this company is trying to treat
+sickle cell
+disease using their base editing system
+but they are currently only
+in the ind enabling period that is when
+you submit an application
+to the fda to gain approval to actually
+begin clinical work
+again this company was founded in 2017
+compared to $crispr therapeutics which
+was founded in 2013
+currently $beam therapeutics is trading
+at about half the market cap
+of $crispr therapeutics $crispr
+therapeutics they've already published
+data
+regarding sickle cell anemia as well as
+beta thalassemia
+and those results have been quite
+positive also dr cole carney
+has described their work in
+immuno-oncology and they believe that
+they haven't had issues with off-target
+cuts
+or some of the issues that could arise
+from their barcode scissor system
+compared to the base editing system by
+$beam therapeutics
+it appears that $beam therapeutics base
+editing system could be an evolution
+and improvement on the current barcode
+scissor system
+that $crispr therapeutics intelia and
+editos use
+however as you can see from their
+pipeline they are much
+earlier i have a position in both beam
+therapeutics as well as
+$crispr therapeutics this is not medical
+or financial advice
+please do your own due diligence and
+happy investing
+[Music]

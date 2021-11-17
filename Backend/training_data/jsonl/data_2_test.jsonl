@@ -1,0 +1,3 @@
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript25.pdf"]}}}}
+{"document": {"input_config": {"gcs_source": {"input_uris": ["gs://fatiha-bucket/pdfs/transcript28.pdf"]}}}}
+
